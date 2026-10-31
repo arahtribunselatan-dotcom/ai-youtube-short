@@ -1,5 +1,6 @@
 google-genai
 edge-tts
+Pillow
 requests
 google-api-python-client
 google-auth-outhlib
